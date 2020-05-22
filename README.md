@@ -4,6 +4,10 @@ egg
 
 ### 修改config里的mysql 
 
+```
+做了简单的 登录功能，校验session时效
+```
+
 ## QuickStart
 
 <!-- add docs here for user -->
