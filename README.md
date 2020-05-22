@@ -2,6 +2,8 @@
 
 egg
 
+### 修改config里的mysql
+
 ## QuickStart
 
 <!-- add docs here for user -->
