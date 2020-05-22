@@ -2,7 +2,7 @@
 
 egg
 
-### 修改config里的mysql
+### 修改config里的mysql 
 
 ## QuickStart
 
